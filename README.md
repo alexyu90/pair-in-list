@@ -14,7 +14,7 @@ Use pip install pair-in-list
 
 # Project Motivation
 
-This package solves a popular interview question and served as an package uploading exercise.
+This package solves a popular interview question and served as a package uploading exercise.
 
 # Licensing, Authors, Acknowledgements
 
